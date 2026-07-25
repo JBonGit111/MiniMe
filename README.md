@@ -19,3 +19,6 @@ Upcoming
 - Multiple chat sessions
 - RAG
 - Voice assistant
+
+Note:
+Backend,fronted and AI Server is located on a local host on a laptop
